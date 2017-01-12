@@ -4,7 +4,7 @@ This is a bash/awk script that will parse a combined vcf file and for your input
 
 Script is useful when you need to quicky assess which sample is Het/Ref homo/Alt homo for a particular SNP of interest.
 
-<pre lang="awk"><code>
+<pre lang="bash"><code>
 
 cat >> script.awk <<EOL
 
