@@ -31,7 +31,7 @@ EOL
 #run awk script with $2 provided as vcf file
 
 awk -f script.awk $2
-<\pre>
+</pre>
 
 # Usage
 
@@ -62,7 +62,7 @@ cat file.vcf
 1	713977	rs74512038	C	T	.	PASS	.	GT	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0|0	0|0
 1	714002	rs143219077	C	G	.	PASS	.	GT	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0|0	0|0
 1	714019	rs114983708	A	G	.	PASS	.	GT	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0|0	0|0
-<\pre>
+</pre>
 
 Run combinedVCFParser.sh with SNP ID and vcf file name as two arguments
 <pre>
@@ -84,5 +84,5 @@ Alternative homozygote	1522	11	1|1
 Alternative homozygote	2139	14	1|1
 Alternative homozygote	2463	19	1|1
 Alternative homozygote	2989	22	1|1
-<\pre>
+</pre>
 
