@@ -33,7 +33,7 @@ EOL
 awk -f script.awk $2
 </code></pre>
 
-# Usage
+## Usage
 
 <pre>
 cat file.vcf 
