@@ -24,3 +24,5 @@ EOL
 #run awk script with $2 provided as vcf file
 
 awk -f script.awk $2
+
+rm script.awk
